@@ -1,0 +1,10 @@
+This is a simple dictionary console-based program.
+Current version:V 1.1
+
+V 1.0 - shows definition of a word in english
+V 1.1 - adding an user friendly workflow
+
+Next feature to be added : 
+- Creating a user friendly GUI
+- Adding new languages
+- adding translate function
