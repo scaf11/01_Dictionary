@@ -7,7 +7,7 @@ from difflib import get_close_matches
 #it gives the definition of the word
 def definitie_cuvant(cuvant):
     if cuvant.lower() in data:
-        return print_word(cuvant)
+        return print_word(cuvant.lower())
     elif cuvant.title() in data:
         return print_word(cuvant.title())
     elif cuvant.upper() in data:
