@@ -3,8 +3,9 @@ Current version:V 1.1
 
 V 1.0 - shows definition of a word in english
 V 1.1 - adding an user friendly workflow
+V 2.0 - adding GUI interface. The V 1.1 which is a console runnng script it will be in the folder Old
 
 Next feature to be added : 
-- Creating a user friendly GUI
 - Adding new languages
 - adding translate function
+- maybe moving online(web_app)
