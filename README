@@ -1,4 +1,4 @@
-This is a simple dictionary program.
+This is a simple dictionary program with GUI using.
 CREDITS:
 Starting code based on udemy course of Ardit Sulce.
 
@@ -6,7 +6,8 @@ Current version:V 2.0
 
 V 1.0 - shows definition of a word in english
 V 1.1 - adding an user friendly workflow
-V 2.0 - adding GUI interface. The V 1.1 which is a console runnng script it will be in the folder Old
+V 2.0 - adding GUI interface with tkinter. The V 1.1 which is a console runnnig script
+it will be in the folder Old and in the branch console-view.
 
 Next feature to be added : 
 - Adding new languages
