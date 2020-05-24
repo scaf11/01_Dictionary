@@ -1,5 +1,8 @@
-This is a simple dictionary console-based program.
-Current version:V 1.1
+This is a simple dictionary program.
+CREDITS:
+Starting code based on udemy course of Ardit Sulce.
+
+Current version:V 2.0
 
 V 1.0 - shows definition of a word in english
 V 1.1 - adding an user friendly workflow
